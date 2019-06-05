@@ -1,0 +1,5 @@
+C:\Program Files\Common Files\VMware\USB
+C:\Program Files\VMware\VMware Workstation
+
+3306 порт MySQL
+
